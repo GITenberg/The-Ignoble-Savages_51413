@@ -1,17 +1,20 @@
 _repo: The-Ignoble-Savages_51413
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Dillon, Diane
     alias: Dillon, Diane Claire Sorber
-    birthdate: &id001 1933
+    birthdate: 1933
     gutenberg_agent_id: '32729'
     url: http://www.gutenberg.org/2009/agents/32729
   - agent_name: Dillon, Leo
-    birthdate: *id001
+    birthdate: 1933
     deathdate: 2012
     gutenberg_agent_id: '32728'
     url: http://www.gutenberg.org/2009/agents/32728
+covers:
+- cover_type: archival
+  image_path: 51413-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Evelyn E.
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '25680'
     url: http://www.gutenberg.org/2009/agents/25680
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51413#The-Ignoble-Savages
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-10'
 gutenberg_type: Text
